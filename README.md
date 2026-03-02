@@ -1,5 +1,5 @@
 # CS330
-portfolio
+# portfolio
 How do I approach desinging software?
 One of the first classes I took during my time at SNHU in regards to my bachelors in computer science taught me how to create and efficiently use a flow-chart, so I have been using those for every project I have done since.
 How do I approach developing programs?
